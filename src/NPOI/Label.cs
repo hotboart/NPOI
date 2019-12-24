@@ -7,5 +7,7 @@ namespace NPOI
         public Color ForeColor { get; set; }
 
         public string Text { get; set; }
+
+        public string KKK { get; set; }
     }
 }
